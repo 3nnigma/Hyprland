@@ -1,0 +1,3 @@
+[Added Associations]
+application/x-kicad-footprint=org.kicad.kicad.desktop;
+application/x-kicad-symbol=org.kicad.kicad.desktop;

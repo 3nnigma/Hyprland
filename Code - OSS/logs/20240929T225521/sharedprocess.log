@@ -1,0 +1,3 @@
+2024-09-29 22:55:24.034 [info] Started initializing default profile extensions in extensions installation folder. file:///home/3nigma/.vscode-oss/extensions
+2024-09-29 22:55:24.145 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/3nigma/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/3nigma/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-09-29 22:55:24.145 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/3nigma/.vscode-oss/extensions

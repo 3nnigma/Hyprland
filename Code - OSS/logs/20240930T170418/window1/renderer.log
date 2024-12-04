@@ -1,0 +1,4 @@
+2024-09-30 17:04:20.322 [info] Started local extension host with pid 2461.
+2024-09-30 17:04:23.346 [info] [perf] Render performance baseline is 40ms
+2024-09-30 18:20:50.114 [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/home/3nigma/.config/Kvantum/kvantum.kvconfig' (Error: File Modified Since) file:///home/3nigma/.config/Kvantum/kvantum.kvconfig
+2024-09-30 18:21:02.925 [error] [text file model] handleSaveError(3) - exit - resulted in a save error: Error: Unable to write file '/home/3nigma/.config/Kvantum/kvantum.kvconfig' (Error: File Modified Since) file:///home/3nigma/.config/Kvantum/kvantum.kvconfig

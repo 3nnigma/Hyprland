@@ -1,0 +1,1036 @@
+2024-10-01 09:52:54.658 [info] [main] Log level: Info
+2024-10-01 09:52:54.658 [info] [main] Validating found git in: "git"
+2024-10-01 09:52:54.658 [info] [main] Using git "2.46.2" from "git"
+2024-10-01 09:52:54.658 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-01 09:52:54.658 [info] > git rev-parse --show-toplevel [13ms]
+2024-10-01 09:52:54.658 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.658 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-01 09:52:54.658 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.659 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 09:52:54.660 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.683 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.683 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.688 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.688 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.693 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:52:54.693 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.703 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-01 09:52:54.703 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.712 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:52:54.712 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.718 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:52:54.718 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.724 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.724 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.728 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.728 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.733 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.733 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.738 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:54.738 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:52:54.738 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-01 09:52:55.481 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:52:55.481 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:53:00.182 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:53:00.182 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:54:41.726 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:54:41.726 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:54:57.252 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:54:57.252 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:55:07.005 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:07.005 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:55:09.232 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:09.232 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:55:10.478 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 09:55:10.479 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 09:55:25.468 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:25.478 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-01 09:55:25.497 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/NvChad
+2024-10-01 09:55:25.511 [info] > git config --get commit.template [4ms]
+2024-10-01 09:55:25.516 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2024-10-01 09:55:25.519 [info] > git symbolic-ref --short HEAD [3ms]
+2024-10-01 09:55:25.519 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:25.531 [info] > git rev-parse HEAD [5ms]
+2024-10-01 09:55:25.531 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:25.537 [info] > git status -z -uall [2ms]
+2024-10-01 09:55:25.627 [info] > git symbolic-ref --short HEAD [79ms]
+2024-10-01 09:55:25.627 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:25.635 [info] > git rev-parse HEAD [5ms]
+2024-10-01 09:55:25.635 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:25.635 [info] > git config --get commit.template [9ms]
+2024-10-01 09:55:25.644 [info] > git status -z -uall [3ms]
+2024-10-01 09:55:27.769 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:27.774 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-01 09:55:27.780 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/LuaSnip
+2024-10-01 09:55:27.790 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:27.790 [info] > git config --get commit.template [6ms]
+2024-10-01 09:55:27.800 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2024-10-01 09:55:27.801 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-10-01 09:55:27.806 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-treesitter
+2024-10-01 09:55:27.812 [info] > git symbolic-ref --short HEAD [12ms]
+2024-10-01 09:55:27.812 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:27.820 [info] > git rev-parse HEAD [3ms]
+2024-10-01 09:55:27.820 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:27.824 [info] > git config --get commit.template [13ms]
+2024-10-01 09:55:27.827 [info] > git status -z -uall [3ms]
+2024-10-01 09:55:27.842 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2024-10-01 09:55:27.848 [info] > git symbolic-ref --short HEAD [11ms]
+2024-10-01 09:55:27.848 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:27.856 [info] > git rev-parse HEAD [4ms]
+2024-10-01 09:55:27.856 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:27.857 [info] > git config --get commit.template [8ms]
+2024-10-01 09:55:27.857 [info] > git symbolic-ref --short HEAD [15ms]
+2024-10-01 09:55:27.857 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:27.863 [info] > git rev-parse HEAD [2ms]
+2024-10-01 09:55:27.863 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:27.876 [info] > git status -z -uall [5ms]
+2024-10-01 09:55:27.886 [info] > git status -z -uall [11ms]
+2024-10-01 09:55:27.890 [info] > git config --get commit.template [4ms]
+2024-10-01 09:55:27.890 [info] > git symbolic-ref --short HEAD [8ms]
+2024-10-01 09:55:27.890 [info] fatal: No such ref: HEAD
+2024-10-01 09:55:27.899 [info] > git rev-parse HEAD [2ms]
+2024-10-01 09:55:27.899 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:55:27.906 [info] > git status -z -uall [2ms]
+2024-10-01 09:55:28.274 [info] > git config --get commit.template [1ms]
+2024-10-01 09:55:28.274 [info] > git symbolic-ref --short HEAD [7ms]
+2024-10-01 09:55:28.274 [info] fatal: ref HEAD is not a symbolic ref
+2024-10-01 09:55:28.280 [info] > git rev-parse HEAD [2ms]
+2024-10-01 09:55:28.287 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-10-01 09:55:28.294 [info] > git status -z -uall [3ms]
+2024-10-01 09:55:30.331 [info] > git symbolic-ref --short HEAD [7ms]
+2024-10-01 09:55:30.338 [info] > git config --get commit.template [8ms]
+2024-10-01 09:55:30.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-01 09:55:30.347 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/LuaSnip/.git/refs/remotes/origin/master'
+2024-10-01 09:55:30.349 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-01 09:55:30.368 [info] > git status -z -uall [15ms]
+2024-10-01 09:55:30.381 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-10-01 09:55:30.389 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-10-01 09:55:30.390 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:30.398 [info] > git reflog master --grep-reflog=branch: Created from *. [5ms]
+2024-10-01 09:55:30.403 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-10-01 09:55:30.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:55:30.418 [info] > git config --local branch.master.vscode-merge-base origin/master [1ms]
+2024-10-01 09:55:30.426 [info] > git symbolic-ref --short HEAD [4ms]
+2024-10-01 09:55:30.430 [info] > git config --get commit.template [4ms]
+2024-10-01 09:55:30.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-01 09:55:30.434 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/LuaSnip/.git/refs/remotes/origin/master'
+2024-10-01 09:55:30.435 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:55:30.451 [info] > git status -z -uall [12ms]
+2024-10-01 09:55:30.464 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-10-01 09:55:30.469 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:55:30.473 [info] > git merge-base refs/heads/master refs/remotes/origin/master [10ms]
+2024-10-01 09:55:30.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2024-10-01 09:55:30.479 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [2ms]
+2024-10-01 09:55:30.484 [info] > git diff --name-status -z --diff-filter=ADMR e808bee352d1a6fcf902ca1a71cee76e60e24071...refs/remotes/origin/master [1ms]
+2024-10-01 09:55:31.612 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:55:31.618 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-01 09:55:31.625 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-autopairs
+2024-10-01 09:55:31.637 [info] > git config --get commit.template [6ms]
+2024-10-01 09:55:31.639 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-01 09:55:31.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-10-01 09:55:31.655 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-autopairs/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.656 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-10-01 09:55:31.661 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-web-devicons
+2024-10-01 09:55:31.669 [info] > git rev-parse refs/remotes/origin/master [14ms]
+2024-10-01 09:55:31.674 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-01 09:55:31.675 [info] > git config --get commit.template [10ms]
+2024-10-01 09:55:31.683 [info] > git status -z -uall [10ms]
+2024-10-01 09:55:31.703 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-10-01 09:55:31.708 [info] > git rev-parse --git-dir --git-common-dir [26ms]
+2024-10-01 09:55:31.713 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/conform.nvim
+2024-10-01 09:55:31.725 [info] > git config --local branch.master.vscode-merge-base [17ms]
+2024-10-01 09:55:31.725 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:31.729 [info] > git config --get commit.template [27ms]
+2024-10-01 09:55:31.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2024-10-01 09:55:31.735 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-web-devicons/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.736 [info] > git rev-parse --show-toplevel [12ms]
+2024-10-01 09:55:31.736 [info] > git config --get commit.template [16ms]
+2024-10-01 09:55:31.747 [info] > git rev-parse refs/remotes/origin/master [12ms]
+2024-10-01 09:55:31.752 [info] > git reflog master --grep-reflog=branch: Created from *. [23ms]
+2024-10-01 09:55:31.761 [info] > git status -z -uall [10ms]
+2024-10-01 09:55:31.761 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-10-01 09:55:31.774 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-10-01 09:55:31.779 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-cmp
+2024-10-01 09:55:31.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2024-10-01 09:55:31.796 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-autopairs/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.798 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-10-01 09:55:31.802 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [37ms]
+2024-10-01 09:55:31.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2024-10-01 09:55:31.813 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/conform.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.815 [info] > git config --local branch.master.vscode-merge-base origin/master [9ms]
+2024-10-01 09:55:31.815 [info] > git config --local branch.master.vscode-merge-base [13ms]
+2024-10-01 09:55:31.815 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:31.819 [info] > git rev-parse refs/remotes/origin/master [23ms]
+2024-10-01 09:55:31.820 [info] > git rev-parse --show-toplevel [28ms]
+2024-10-01 09:55:31.821 [info] > git config --get commit.template [33ms]
+2024-10-01 09:55:31.821 [info] > git config --get commit.template [37ms]
+2024-10-01 09:55:31.834 [info] > git reflog master --grep-reflog=branch: Created from *. [15ms]
+2024-10-01 09:55:31.837 [info] > git rev-parse refs/remotes/origin/master [24ms]
+2024-10-01 09:55:31.853 [info] > git status -z -uall [12ms]
+2024-10-01 09:55:31.853 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [16ms]
+2024-10-01 09:55:31.857 [info] > git rev-parse --git-dir --git-common-dir [24ms]
+2024-10-01 09:55:31.862 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/ui
+2024-10-01 09:55:31.863 [info] > git config --get commit.template [33ms]
+2024-10-01 09:55:31.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [15ms]
+2024-10-01 09:55:31.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-10-01 09:55:31.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2024-10-01 09:55:31.901 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-cmp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:31.908 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-web-devicons/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-10-01 09:55:31.921 [info] > git config --local branch.master.vscode-merge-base origin/master [45ms]
+2024-10-01 09:55:31.923 [info] > git rev-parse --show-toplevel [52ms]
+2024-10-01 09:55:31.923 [info] > git config --get commit.template [56ms]
+2024-10-01 09:55:31.937 [info] > git config --local branch.master.vscode-merge-base [17ms]
+2024-10-01 09:55:31.937 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:31.940 [info] > git config --get commit.template [26ms]
+2024-10-01 09:55:31.940 [info] > git rev-parse refs/remotes/origin/master [32ms]
+2024-10-01 09:55:31.941 [info] > git rev-parse refs/remotes/origin/main [40ms]
+2024-10-01 09:55:31.944 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [52ms]
+2024-10-01 09:55:31.951 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-autopairs/.git/refs/remotes/origin/master'
+2024-10-01 09:55:31.952 [info] > git status -z -uall [8ms]
+2024-10-01 09:55:31.952 [info] > git reflog master --grep-reflog=branch: Created from *. [12ms]
+2024-10-01 09:55:31.955 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2024-10-01 09:55:31.959 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/base46
+2024-10-01 09:55:31.960 [info] > git config --get commit.template [26ms]
+2024-10-01 09:55:31.972 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [17ms]
+2024-10-01 09:55:31.977 [info] > git rev-parse refs/remotes/origin/master [26ms]
+2024-10-01 09:55:31.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [33ms]
+2024-10-01 09:55:31.996 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/ui/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:32.000 [info] > git status -z -uall [19ms]
+2024-10-01 09:55:32.000 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-10-01 09:55:32.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [39ms]
+2024-10-01 09:55:32.018 [info] > git rev-parse --show-toplevel [47ms]
+2024-10-01 09:55:32.019 [info] > git config --get commit.template [51ms]
+2024-10-01 09:55:32.019 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [55ms]
+2024-10-01 09:55:32.030 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/conform.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:32.032 [info] > git config --local branch.master.vscode-merge-base origin/master [14ms]
+2024-10-01 09:55:32.033 [info] > git merge-base refs/heads/master refs/remotes/origin/master [18ms]
+2024-10-01 09:55:32.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-10-01 09:55:32.040 [info] > git config --local branch.main.vscode-merge-base [36ms]
+2024-10-01 09:55:32.040 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.044 [info] > git config --get commit.template [45ms]
+2024-10-01 09:55:32.044 [info] > git rev-parse refs/remotes/origin/v2.5 [48ms]
+2024-10-01 09:55:32.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [55ms]
+2024-10-01 09:55:32.059 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-web-devicons/.git/refs/remotes/origin/master'
+2024-10-01 09:55:32.060 [info] > git status -z -uall [13ms]
+2024-10-01 09:55:32.060 [info] > git reflog main --grep-reflog=branch: Created from *. [17ms]
+2024-10-01 09:55:32.063 [info] > git config --local branch.master.vscode-merge-base [23ms]
+2024-10-01 09:55:32.067 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [31ms]
+2024-10-01 09:55:32.071 [info] > git rev-parse refs/remotes/origin/master [41ms]
+2024-10-01 09:55:32.072 [info] > git rev-parse --git-dir --git-common-dir [46ms]
+2024-10-01 09:55:32.078 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/cmp-nvim-lsp
+2024-10-01 09:55:32.097 [info] > git diff --name-status -z --diff-filter=ADMR ee297f215e95a60b01fde33275cc3c820eddeebe...refs/remotes/origin/master [26ms]
+2024-10-01 09:55:32.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [30ms]
+2024-10-01 09:55:32.098 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [35ms]
+2024-10-01 09:55:32.102 [info] > git rev-parse refs/remotes/origin/master [43ms]
+2024-10-01 09:55:32.106 [info] > git config --get commit.template [50ms]
+2024-10-01 09:55:32.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [54ms]
+2024-10-01 09:55:32.123 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/base46/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:32.131 [info] > git status -z -uall [25ms]
+2024-10-01 09:55:32.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [20ms]
+2024-10-01 09:55:32.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [43ms]
+2024-10-01 09:55:32.149 [info] > git rev-parse --show-toplevel [54ms]
+2024-10-01 09:55:32.149 [info] > git config --get commit.template [58ms]
+2024-10-01 09:55:32.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [62ms]
+2024-10-01 09:55:32.169 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-cmp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:32.171 [info] > git config --local branch.main.vscode-merge-base origin/main [22ms]
+2024-10-01 09:55:32.171 [info] > git merge-base refs/heads/master refs/remotes/origin/master [27ms]
+2024-10-01 09:55:32.175 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [36ms]
+2024-10-01 09:55:32.179 [info] > git config --local branch.v2.5.vscode-merge-base [44ms]
+2024-10-01 09:55:32.179 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.183 [info] > git config --get commit.template [54ms]
+2024-10-01 09:55:32.183 [info] > git rev-parse refs/remotes/origin/v2.5 [60ms]
+2024-10-01 09:55:32.199 [info] > git status -z -uall [13ms]
+2024-10-01 09:55:32.199 [info] > git reflog v2.5 --grep-reflog=branch: Created from *. [16ms]
+2024-10-01 09:55:32.203 [info] > git config --local branch.master.vscode-merge-base [24ms]
+2024-10-01 09:55:32.207 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [32ms]
+2024-10-01 09:55:32.211 [info] > git rev-parse refs/remotes/origin/main [42ms]
+2024-10-01 09:55:32.212 [info] > git rev-parse --git-dir --git-common-dir [46ms]
+2024-10-01 09:55:32.215 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/friendly-snippets
+2024-10-01 09:55:32.216 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [56ms]
+2024-10-01 09:55:32.237 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/conform.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:32.240 [info] > git diff --name-status -z --diff-filter=ADMR 6b53401918a9033a41159d012160c5fb5eb249ae...refs/remotes/origin/master [29ms]
+2024-10-01 09:55:32.241 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [34ms]
+2024-10-01 09:55:32.242 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [39ms]
+2024-10-01 09:55:32.246 [info] > git config --get commit.template [49ms]
+2024-10-01 09:55:32.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [55ms]
+2024-10-01 09:55:32.260 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/cmp-nvim-lsp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:32.265 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [14ms]
+2024-10-01 09:55:32.269 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/v2.5 refs/remotes/origin/v2.5 [23ms]
+2024-10-01 09:55:32.273 [info] > git rev-parse refs/remotes/origin/master [36ms]
+2024-10-01 09:55:32.277 [info] > git rev-parse --show-toplevel [46ms]
+2024-10-01 09:55:32.277 [info] > git config --get commit.template [50ms]
+2024-10-01 09:55:32.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [54ms]
+2024-10-01 09:55:32.291 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/ui/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:32.291 [info] > git status -z -uall [14ms]
+2024-10-01 09:55:32.291 [info] > git config --local branch.v2.5.vscode-merge-base origin/v2.5 [18ms]
+2024-10-01 09:55:32.292 [info] > git config --local branch.v2.5.vscode-merge-base [23ms]
+2024-10-01 09:55:32.292 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.295 [info] > git config --get commit.template [31ms]
+2024-10-01 09:55:32.295 [info] > git rev-parse refs/remotes/origin/main [35ms]
+2024-10-01 09:55:32.308 [info] > git status -z -uall [9ms]
+2024-10-01 09:55:32.308 [info] > git reflog v2.5 --grep-reflog=branch: Created from *. [13ms]
+2024-10-01 09:55:32.311 [info] > git rev-parse refs/remotes/origin/v2.5 [21ms]
+2024-10-01 09:55:32.312 [info] > git rev-parse --git-dir --git-common-dir [25ms]
+2024-10-01 09:55:32.316 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/indent-blankline.nvim
+2024-10-01 09:55:32.317 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [32ms]
+2024-10-01 09:55:32.352 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-cmp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:32.358 [info] > git symbolic-ref --short HEAD [23ms]
+2024-10-01 09:55:32.364 [info] > git merge-base refs/heads/master refs/remotes/origin/master [32ms]
+2024-10-01 09:55:32.368 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [43ms]
+2024-10-01 09:55:32.371 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [60ms]
+2024-10-01 09:55:32.376 [info] > git config --get commit.template [68ms]
+2024-10-01 09:55:32.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [73ms]
+2024-10-01 09:55:32.393 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/friendly-snippets/.git/refs/remotes/origin/main'
+2024-10-01 09:55:32.402 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-10-01 09:55:32.406 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/v2.5 refs/remotes/origin/v2.5 [31ms]
+2024-10-01 09:55:32.410 [info] > git config --local branch.master.vscode-merge-base [39ms]
+2024-10-01 09:55:32.419 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [52ms]
+2024-10-01 09:55:32.426 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [63ms]
+2024-10-01 09:55:32.426 [info] > git config --get commit.template [69ms]
+2024-10-01 09:55:32.427 [info] > git rev-parse refs/remotes/origin/main [75ms]
+2024-10-01 09:55:32.436 [info] > git rev-parse --show-toplevel [88ms]
+2024-10-01 09:55:32.436 [info] > git config --get commit.template [92ms]
+2024-10-01 09:55:32.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [97ms]
+2024-10-01 09:55:32.455 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-treesitter/.git/refs/remotes/origin/master'
+2024-10-01 09:55:32.468 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/base46/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:32.471 [info] > git status -z -uall [35ms]
+2024-10-01 09:55:32.486 [info] > git diff --name-status -z --diff-filter=ADMR 1a99fdc1d3aa9ccdf3021e67982a679a8c5c740c...refs/remotes/origin/master [60ms]
+2024-10-01 09:55:32.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [67ms]
+2024-10-01 09:55:32.487 [info] > git config --local branch.v2.5.vscode-merge-base origin/v2.5 [77ms]
+2024-10-01 09:55:32.487 [info] > git config --local branch.main.vscode-merge-base [81ms]
+2024-10-01 09:55:32.487 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.491 [info] > git config --get commit.template [91ms]
+2024-10-01 09:55:32.491 [info] > git rev-parse refs/remotes/origin/main [98ms]
+2024-10-01 09:55:32.507 [info] > git reflog main --grep-reflog=branch: Created from *. [16ms]
+2024-10-01 09:55:32.513 [info] > git merge-base refs/heads/main refs/remotes/origin/main [26ms]
+2024-10-01 09:55:32.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2024-10-01 09:55:32.524 [info] > git rev-parse refs/remotes/origin/v2.5 [56ms]
+2024-10-01 09:55:32.525 [info] > git rev-parse --git-dir --git-common-dir [61ms]
+2024-10-01 09:55:32.529 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-colorizer.lua
+2024-10-01 09:55:32.529 [info] > git rev-parse refs/remotes/origin/master [74ms]
+2024-10-01 09:55:32.533 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [86ms]
+2024-10-01 09:55:32.559 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/ui/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:32.560 [info] > git status -z -uall [65ms]
+2024-10-01 09:55:32.561 [info] > git status -z -uall [28ms]
+2024-10-01 09:55:32.561 [info] > git config --local branch.main.vscode-merge-base [37ms]
+2024-10-01 09:55:32.566 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [46ms]
+2024-10-01 09:55:32.571 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [59ms]
+2024-10-01 09:55:32.576 [info] > git config --get commit.template [71ms]
+2024-10-01 09:55:32.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [76ms]
+2024-10-01 09:55:32.593 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/indent-blankline.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:32.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2024-10-01 09:55:32.604 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [28ms]
+2024-10-01 09:55:32.608 [info] > git diff --name-status -z --diff-filter=ADMR ae644feb7b67bf1ce4260c231d1d4300b19c6f30...refs/remotes/origin/main [37ms]
+2024-10-01 09:55:32.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [42ms]
+2024-10-01 09:55:32.609 [info] > git rev-parse refs/remotes/origin/v2.5 [50ms]
+2024-10-01 09:55:32.612 [info] > git rev-parse --show-toplevel [57ms]
+2024-10-01 09:55:32.612 [info] > git config --get commit.template [63ms]
+2024-10-01 09:55:32.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [71ms]
+2024-10-01 09:55:32.671 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/cmp-nvim-lsp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:32.673 [info] > git status -z -uall [61ms]
+2024-10-01 09:55:32.674 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+2024-10-01 09:55:32.691 [info] > git config --local branch.main.vscode-merge-base origin/main [82ms]
+2024-10-01 09:55:32.691 [info] > git config --local branch.main.vscode-merge-base [87ms]
+2024-10-01 09:55:32.691 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.696 [info] > git config --get commit.template [99ms]
+2024-10-01 09:55:32.696 [info] > git rev-parse refs/remotes/origin/master [103ms]
+2024-10-01 09:55:32.717 [info] > git status -z -uall [17ms]
+2024-10-01 09:55:32.727 [info] > git reflog main --grep-reflog=branch: Created from *. [31ms]
+2024-10-01 09:55:32.730 [info] > git merge-base refs/heads/v2.5 refs/remotes/origin/v2.5 [40ms]
+2024-10-01 09:55:32.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [50ms]
+2024-10-01 09:55:32.739 [info] > git config --local branch.master.vscode-merge-base [61ms]
+2024-10-01 09:55:32.739 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:32.747 [info] > git rev-parse refs/remotes/origin/main [76ms]
+2024-10-01 09:55:32.748 [info] > git rev-parse --git-dir --git-common-dir [79ms]
+2024-10-01 09:55:32.752 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/plenary.nvim
+2024-10-01 09:55:32.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [89ms]
+2024-10-01 09:55:33.196 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/base46/.git/refs/remotes/origin/v2.5'
+2024-10-01 09:55:33.207 [info] > git reflog master --grep-reflog=branch: Created from *. [461ms]
+2024-10-01 09:55:33.214 [info] > git config --local branch.v2.5.vscode-merge-base [476ms]
+2024-10-01 09:55:33.222 [info] > git rev-list --count --left-right refs/heads/v2.5...refs/remotes/origin/v2.5 [488ms]
+2024-10-01 09:55:33.227 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [497ms]
+2024-10-01 09:55:33.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [510ms]
+2024-10-01 09:55:33.241 [info] > git config --get commit.template [529ms]
+2024-10-01 09:55:33.241 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [533ms]
+2024-10-01 09:55:33.286 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-colorizer.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.288 [info] > git config --local branch.master.vscode-merge-base [48ms]
+2024-10-01 09:55:33.288 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.292 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [60ms]
+2024-10-01 09:55:33.296 [info] > git diff --name-status -z --diff-filter=ADMR e0f06a9aa43112e94beca8283516e6804112fb8e...refs/remotes/origin/v2.5 [69ms]
+2024-10-01 09:55:33.296 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/v2.5 refs/remotes/origin/v2.5 [74ms]
+2024-10-01 09:55:33.297 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [83ms]
+2024-10-01 09:55:33.300 [info] > git rev-parse refs/remotes/origin/v2.5 [104ms]
+2024-10-01 09:55:33.303 [info] > git rev-parse --show-toplevel [114ms]
+2024-10-01 09:55:33.304 [info] > git config --get commit.template [119ms]
+2024-10-01 09:55:33.304 [info] > git config --get commit.template [124ms]
+2024-10-01 09:55:33.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [127ms]
+2024-10-01 09:55:33.316 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/friendly-snippets/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.317 [info] > git status -z -uall [14ms]
+2024-10-01 09:55:33.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [17ms]
+2024-10-01 09:55:33.322 [info] > git config --local branch.main.vscode-merge-base origin/main [26ms]
+2024-10-01 09:55:33.323 [info] > git reflog master --grep-reflog=branch: Created from *. [31ms]
+2024-10-01 09:55:33.327 [info] > git rev-parse refs/remotes/origin/master [42ms]
+2024-10-01 09:55:33.347 [info] > git status -z -uall [16ms]
+2024-10-01 09:55:33.347 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [20ms]
+2024-10-01 09:55:33.351 [info] > git config --local branch.master.vscode-merge-base origin/master [29ms]
+2024-10-01 09:55:33.355 [info] > git rev-parse refs/remotes/origin/main [39ms]
+2024-10-01 09:55:33.356 [info] > git rev-parse --git-dir --git-common-dir [43ms]
+2024-10-01 09:55:33.359 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/gitsigns.nvim
+2024-10-01 09:55:33.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2024-10-01 09:55:33.384 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/cmp-nvim-lsp/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.386 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/v2.5 refs/remotes/v2.5 [22ms]
+2024-10-01 09:55:33.390 [info] > git symbolic-ref --short HEAD [35ms]
+2024-10-01 09:55:33.394 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [43ms]
+2024-10-01 09:55:33.398 [info] > git config --get commit.template [53ms]
+2024-10-01 09:55:33.398 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [57ms]
+2024-10-01 09:55:33.398 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [61ms]
+2024-10-01 09:55:33.413 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/plenary.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.416 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/indent-blankline.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-10-01 09:55:33.424 [info] > git config --local branch.master.vscode-merge-base origin/master [26ms]
+2024-10-01 09:55:33.425 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-10-01 09:55:33.425 [info] > git config --local branch.v2.5.vscode-merge-base [35ms]
+2024-10-01 09:55:33.429 [info] > git rev-parse refs/remotes/origin/main [45ms]
+2024-10-01 09:55:33.433 [info] > git rev-parse --show-toplevel [53ms]
+2024-10-01 09:55:33.433 [info] > git config --get commit.template [56ms]
+2024-10-01 09:55:33.433 [info] > git config --get commit.template [59ms]
+2024-10-01 09:55:33.433 [info] > git merge-base refs/heads/v2.5 refs/remotes/origin/v2.5 [64ms]
+2024-10-01 09:55:33.453 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-treesitter/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.457 [info] > git status -z -uall [25ms]
+2024-10-01 09:55:33.457 [info] > git rev-list --count --left-right refs/heads/v2.5...refs/remotes/origin/v2.5 [20ms]
+2024-10-01 09:55:33.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/v2.5 refs/remotes/origin/v2.5 [42ms]
+2024-10-01 09:55:33.472 [info] > git config --local branch.master.vscode-merge-base [48ms]
+2024-10-01 09:55:33.472 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.476 [info] > git config --get commit.template [56ms]
+2024-10-01 09:55:33.476 [info] > git rev-parse refs/remotes/origin/master [60ms]
+2024-10-01 09:55:33.476 [info] > git rev-parse refs/remotes/origin/master [64ms]
+2024-10-01 09:55:33.486 [info] > git status -z -uall [6ms]
+2024-10-01 09:55:33.487 [info] > git reflog master --grep-reflog=branch: Created from *. [12ms]
+2024-10-01 09:55:33.490 [info] > git merge-base refs/heads/main refs/remotes/origin/main [19ms]
+2024-10-01 09:55:33.494 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-10-01 09:55:33.498 [info] > git diff --name-status -z --diff-filter=ADMR 82d71bc6def6a752cbf5fbd0e496aea5f088d940...refs/remotes/origin/v2.5 [37ms]
+2024-10-01 09:55:33.498 [info] > git rev-parse --git-dir --git-common-dir [42ms]
+2024-10-01 09:55:33.501 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-tree.lua
+2024-10-01 09:55:33.502 [info] > git rev-parse refs/remotes/origin/master [49ms]
+2024-10-01 09:55:33.506 [info] > git config --get commit.template [56ms]
+2024-10-01 09:55:33.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [60ms]
+2024-10-01 09:55:33.530 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/friendly-snippets/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.532 [info] > git config --local branch.main.vscode-merge-base [34ms]
+2024-10-01 09:55:33.537 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [42ms]
+2024-10-01 09:55:33.541 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [51ms]
+2024-10-01 09:55:33.545 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [60ms]
+2024-10-01 09:55:33.562 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/gitsigns.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.567 [info] > git status -z -uall [62ms]
+2024-10-01 09:55:33.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-10-01 09:55:33.572 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [27ms]
+2024-10-01 09:55:33.576 [info] > git diff --name-status -z --diff-filter=ADMR 39e2eda76828d88b773cc27a3f61d2ad782c922d...refs/remotes/origin/main [35ms]
+2024-10-01 09:55:33.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [40ms]
+2024-10-01 09:55:33.577 [info] > git rev-parse refs/remotes/origin/main [47ms]
+2024-10-01 09:55:33.581 [info] > git rev-parse --show-toplevel [54ms]
+2024-10-01 09:55:33.581 [info] > git config --get commit.template [59ms]
+2024-10-01 09:55:33.582 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [64ms]
+2024-10-01 09:55:33.606 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-colorizer.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.607 [info] > git status -z -uall [26ms]
+2024-10-01 09:55:33.607 [info] > git merge-base refs/heads/master refs/remotes/origin/master [11ms]
+2024-10-01 09:55:33.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-10-01 09:55:33.623 [info] > git config --local branch.master.vscode-merge-base origin/master [47ms]
+2024-10-01 09:55:33.624 [info] > git config --local branch.master.vscode-merge-base [52ms]
+2024-10-01 09:55:33.624 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.628 [info] > git config --get commit.template [62ms]
+2024-10-01 09:55:33.628 [info] > git rev-parse refs/remotes/origin/main [66ms]
+2024-10-01 09:55:33.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [74ms]
+2024-10-01 09:55:33.647 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/indent-blankline.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.648 [info] > git status -z -uall [16ms]
+2024-10-01 09:55:33.648 [info] > git reflog master --grep-reflog=branch: Created from *. [20ms]
+2024-10-01 09:55:33.651 [info] > git merge-base refs/heads/main refs/remotes/origin/main [28ms]
+2024-10-01 09:55:33.655 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2024-10-01 09:55:33.659 [info] > git config --local branch.master.vscode-merge-base [45ms]
+2024-10-01 09:55:33.662 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [52ms]
+2024-10-01 09:55:33.666 [info] > git rev-parse refs/remotes/origin/master [61ms]
+2024-10-01 09:55:33.667 [info] > git rev-parse --git-dir --git-common-dir [65ms]
+2024-10-01 09:55:33.670 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/which-key.nvim
+2024-10-01 09:55:33.688 [info] > git diff --name-status -z --diff-filter=ADMR 707e352df6d737e545e1a7204f7395ba82e6d2d3...refs/remotes/origin/master [22ms]
+2024-10-01 09:55:33.689 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [27ms]
+2024-10-01 09:55:33.689 [info] > git config --local branch.main.vscode-merge-base [30ms]
+2024-10-01 09:55:33.693 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [38ms]
+2024-10-01 09:55:33.697 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [46ms]
+2024-10-01 09:55:33.701 [info] > git rev-parse refs/remotes/origin/master [54ms]
+2024-10-01 09:55:33.705 [info] > git config --get commit.template [61ms]
+2024-10-01 09:55:33.705 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [66ms]
+2024-10-01 09:55:33.719 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-tree.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.724 [info] > git status -z -uall [19ms]
+2024-10-01 09:55:33.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-10-01 09:55:33.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [36ms]
+2024-10-01 09:55:33.741 [info] > git diff --name-status -z --diff-filter=ADMR 00ba9dd3df89509f95437b8d595553707c46d5ea...refs/remotes/origin/main [44ms]
+2024-10-01 09:55:33.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [49ms]
+2024-10-01 09:55:33.742 [info] > git rev-parse --show-toplevel [56ms]
+2024-10-01 09:55:33.742 [info] > git config --get commit.template [61ms]
+2024-10-01 09:55:33.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [66ms]
+2024-10-01 09:55:33.759 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/plenary.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.760 [info] > git config --local branch.master.vscode-merge-base origin/master [19ms]
+2024-10-01 09:55:33.761 [info] > git merge-base refs/heads/master refs/remotes/origin/master [24ms]
+2024-10-01 09:55:33.765 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-10-01 09:55:33.768 [info] > git config --local branch.main.vscode-merge-base [40ms]
+2024-10-01 09:55:33.768 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.772 [info] > git config --get commit.template [49ms]
+2024-10-01 09:55:33.772 [info] > git rev-parse refs/remotes/origin/master [53ms]
+2024-10-01 09:55:33.785 [info] > git status -z -uall [9ms]
+2024-10-01 09:55:33.785 [info] > git reflog main --grep-reflog=branch: Created from *. [13ms]
+2024-10-01 09:55:33.788 [info] > git config --local branch.master.vscode-merge-base [20ms]
+2024-10-01 09:55:33.792 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [27ms]
+2024-10-01 09:55:33.796 [info] > git rev-parse refs/remotes/origin/master [37ms]
+2024-10-01 09:55:33.797 [info] > git rev-parse --git-dir --git-common-dir [41ms]
+2024-10-01 09:55:33.800 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/LuaSnip/deps/jsregexp
+2024-10-01 09:55:33.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [49ms]
+2024-10-01 09:55:33.818 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-colorizer.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.819 [info] > git diff --name-status -z --diff-filter=ADMR 18603eb949eba08300799f64027af11ef922283f...refs/remotes/origin/master [23ms]
+2024-10-01 09:55:33.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [27ms]
+2024-10-01 09:55:33.820 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [31ms]
+2024-10-01 09:55:33.823 [info] > git config --get commit.template [39ms]
+2024-10-01 09:55:33.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2024-10-01 09:55:33.836 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/which-key.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.841 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-10-01 09:55:33.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [22ms]
+2024-10-01 09:55:33.848 [info] > git rev-parse refs/remotes/origin/master [30ms]
+2024-10-01 09:55:33.852 [info] > git rev-parse --show-toplevel [38ms]
+2024-10-01 09:55:33.852 [info] > git config --get commit.template [42ms]
+2024-10-01 09:55:33.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2024-10-01 09:55:33.866 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/gitsigns.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:33.867 [info] > git status -z -uall [15ms]
+2024-10-01 09:55:33.875 [info] > git config --local branch.main.vscode-merge-base origin/main [27ms]
+2024-10-01 09:55:33.876 [info] > git config --local branch.master.vscode-merge-base [31ms]
+2024-10-01 09:55:33.876 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.880 [info] > git config --get commit.template [40ms]
+2024-10-01 09:55:33.880 [info] > git rev-parse refs/remotes/origin/main [44ms]
+2024-10-01 09:55:33.891 [info] > git status -z -uall [8ms]
+2024-10-01 09:55:33.891 [info] > git reflog master --grep-reflog=branch: Created from *. [11ms]
+2024-10-01 09:55:33.895 [info] > git merge-base refs/heads/master refs/remotes/origin/master [20ms]
+2024-10-01 09:55:33.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2024-10-01 09:55:33.903 [info] > git rev-parse refs/remotes/origin/main [37ms]
+2024-10-01 09:55:33.904 [info] > git rev-parse --git-dir --git-common-dir [41ms]
+2024-10-01 09:55:33.907 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/LuaSnip/deps/jsregexp005
+2024-10-01 09:55:33.907 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2024-10-01 09:55:33.924 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/plenary.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.925 [info] > git config --local branch.master.vscode-merge-base [22ms]
+2024-10-01 09:55:33.929 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [30ms]
+2024-10-01 09:55:33.934 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [39ms]
+2024-10-01 09:55:33.938 [info] > git config --get commit.template [48ms]
+2024-10-01 09:55:33.939 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [52ms]
+2024-10-01 09:55:33.956 [info] > git status -z -uall [13ms]
+2024-10-01 09:55:33.957 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-10-01 09:55:33.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [24ms]
+2024-10-01 09:55:33.966 [info] > git diff --name-status -z --diff-filter=ADMR 0671e0eabc6842676d3310370e8fae4e1c51d7f9...refs/remotes/origin/master [32ms]
+2024-10-01 09:55:33.967 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [38ms]
+2024-10-01 09:55:33.967 [info] > git rev-parse refs/remotes/origin/master [43ms]
+2024-10-01 09:55:33.971 [info] > git rev-parse --show-toplevel [51ms]
+2024-10-01 09:55:33.971 [info] > git config --get commit.template [55ms]
+2024-10-01 09:55:33.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [59ms]
+2024-10-01 09:55:33.988 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-tree.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:33.989 [info] > git status -z -uall [19ms]
+2024-10-01 09:55:33.989 [info] > git config --local branch.master.vscode-merge-base origin/master [23ms]
+2024-10-01 09:55:33.989 [info] > git config --local branch.main.vscode-merge-base [29ms]
+2024-10-01 09:55:33.989 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:33.993 [info] > git config --get commit.template [38ms]
+2024-10-01 09:55:34.002 [info] > git rev-parse refs/remotes/origin/master [14ms]
+2024-10-01 09:55:34.003 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2024-10-01 09:55:34.006 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/telescope.nvim
+2024-10-01 09:55:34.007 [info] > git config --get commit.template [24ms]
+2024-10-01 09:55:34.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-10-01 09:55:34.032 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/gitsigns.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.035 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-10-01 09:55:34.039 [info] > git config --get commit.template [38ms]
+2024-10-01 09:55:34.039 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [41ms]
+2024-10-01 09:55:34.042 [info] > git reflog main --grep-reflog=branch: Created from *. [49ms]
+2024-10-01 09:55:34.051 [info] > git status -z -uall [9ms]
+2024-10-01 09:55:34.051 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2024-10-01 09:55:34.057 [info] > git config --local branch.master.vscode-merge-base [19ms]
+2024-10-01 09:55:34.061 [info] > git rev-parse refs/remotes/origin/main [29ms]
+2024-10-01 09:55:34.064 [info] > git rev-parse --show-toplevel [35ms]
+2024-10-01 09:55:34.064 [info] > git config --get commit.template [39ms]
+2024-10-01 09:55:34.064 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2024-10-01 09:55:34.065 [info] > git merge-base refs/heads/master refs/remotes/origin/master [49ms]
+2024-10-01 09:55:34.092 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/which-key.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.093 [info] > git status -z -uall [29ms]
+2024-10-01 09:55:34.093 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [25ms]
+2024-10-01 09:55:34.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [53ms]
+2024-10-01 09:55:34.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [60ms]
+2024-10-01 09:55:34.122 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [71ms]
+2024-10-01 09:55:34.131 [info] > git status -z -uall [6ms]
+2024-10-01 09:55:34.132 [info] > git config --local branch.main.vscode-merge-base origin/main [11ms]
+2024-10-01 09:55:34.132 [info] > git merge-base refs/heads/main refs/remotes/origin/main [18ms]
+2024-10-01 09:55:34.136 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-10-01 09:55:34.139 [info] > git diff --name-status -z --diff-filter=ADMR 2d9b06177a975543726ce5c73fca176cedbffe9d...refs/remotes/origin/master [38ms]
+2024-10-01 09:55:34.140 [info] > git rev-parse refs/remotes/origin/main [48ms]
+2024-10-01 09:55:34.140 [info] > git rev-parse --git-dir --git-common-dir [55ms]
+2024-10-01 09:55:34.144 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/mason.nvim
+2024-10-01 09:55:34.144 [info] > git config --get commit.template [66ms]
+2024-10-01 09:55:34.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [70ms]
+2024-10-01 09:55:34.160 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-tree.lua/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.161 [info] > git config --local branch.main.vscode-merge-base [22ms]
+2024-10-01 09:55:34.165 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [29ms]
+2024-10-01 09:55:34.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2024-10-01 09:55:34.178 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/telescope.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.179 [info] > git diff --name-status -z --diff-filter=ADMR 863903631e676b33e8be2acb17512fdc1b80b4fb...refs/remotes/origin/main [10ms]
+2024-10-01 09:55:34.180 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [14ms]
+2024-10-01 09:55:34.180 [info] > git rev-parse refs/remotes/origin/master [20ms]
+2024-10-01 09:55:34.183 [info] > git rev-parse --show-toplevel [26ms]
+2024-10-01 09:55:34.183 [info] > git config --get commit.template [30ms]
+2024-10-01 09:55:34.184 [info] > git config --get commit.template [34ms]
+2024-10-01 09:55:34.191 [info] > git status -z -uall [8ms]
+2024-10-01 09:55:34.201 [info] > git rev-parse refs/remotes/origin/master [23ms]
+2024-10-01 09:55:34.205 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [30ms]
+2024-10-01 09:55:34.214 [info] > git status -z -uall [9ms]
+2024-10-01 09:55:34.214 [info] > git status -z -uall [6ms]
+2024-10-01 09:55:34.215 [info] > git merge-base refs/heads/master refs/remotes/origin/master [13ms]
+2024-10-01 09:55:34.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-10-01 09:55:34.222 [info] > git rev-parse --git-dir --git-common-dir [30ms]
+2024-10-01 09:55:34.225 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-lspconfig
+2024-10-01 09:55:34.231 [info] > git config --local branch.master.vscode-merge-base [10ms]
+2024-10-01 09:55:34.236 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [17ms]
+2024-10-01 09:55:34.240 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-10-01 09:55:34.240 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-10-01 09:55:34.253 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/mason.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.256 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/which-key.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-10-01 09:55:34.264 [info] > git diff --name-status -z --diff-filter=ADMR c9104a5d079db5a158c9562c54689df27d52dccc...refs/remotes/origin/master [25ms]
+2024-10-01 09:55:34.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [29ms]
+2024-10-01 09:55:34.265 [info] > git config --get commit.template [35ms]
+2024-10-01 09:55:34.269 [info] > git config --local branch.master.vscode-merge-base [5ms]
+2024-10-01 09:55:34.269 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:34.274 [info] > git config --get commit.template [15ms]
+2024-10-01 09:55:34.274 [info] > git rev-parse refs/remotes/origin/main [18ms]
+2024-10-01 09:55:34.278 [info] > git rev-parse refs/remotes/origin/main [26ms]
+2024-10-01 09:55:34.286 [info] > git status -z -uall [8ms]
+2024-10-01 09:55:34.296 [info] > git reflog master --grep-reflog=branch: Created from *. [23ms]
+2024-10-01 09:55:34.303 [info] > git status -z -uall [22ms]
+2024-10-01 09:55:34.304 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2024-10-01 09:55:34.308 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-10-01 09:55:34.312 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2024-10-01 09:55:34.323 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-lspconfig/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.328 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-10-01 09:55:34.331 [info] > git config --local branch.main.vscode-merge-base [19ms]
+2024-10-01 09:55:34.335 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [27ms]
+2024-10-01 09:55:34.338 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2024-10-01 09:55:34.338 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [39ms]
+2024-10-01 09:55:34.347 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/telescope.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2024-10-01 09:55:34.352 [info] > git diff --name-status -z --diff-filter=ADMR fb070344402cfc662299d9914f5546d840a22126...refs/remotes/origin/main [14ms]
+2024-10-01 09:55:34.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [18ms]
+2024-10-01 09:55:34.353 [info] > git config --local branch.main.vscode-merge-base [22ms]
+2024-10-01 09:55:34.353 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:34.357 [info] > git config --get commit.template [30ms]
+2024-10-01 09:55:34.357 [info] > git rev-parse refs/remotes/origin/master [34ms]
+2024-10-01 09:55:34.362 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-10-01 09:55:34.366 [info] > git config --local branch.master.vscode-merge-base origin/master [14ms]
+2024-10-01 09:55:34.366 [info] > git rev-parse refs/remotes/origin/master [19ms]
+2024-10-01 09:55:34.375 [info] > git status -z -uall [13ms]
+2024-10-01 09:55:34.375 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [10ms]
+2024-10-01 09:55:34.379 [info] > git config --get commit.template [5ms]
+2024-10-01 09:55:34.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-10-01 09:55:34.391 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/mason.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-10-01 09:55:34.401 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [23ms]
+2024-10-01 09:55:34.410 [info] > git config --local branch.main.vscode-merge-base origin/main [5ms]
+2024-10-01 09:55:34.411 [info] > git config --local branch.master.vscode-merge-base [10ms]
+2024-10-01 09:55:34.411 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:55:34.415 [info] > git config --get commit.template [20ms]
+2024-10-01 09:55:34.415 [info] > git rev-parse refs/remotes/origin/main [24ms]
+2024-10-01 09:55:34.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-10-01 09:55:34.428 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/telescope.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.429 [info] > git config --get commit.template [9ms]
+2024-10-01 09:55:34.429 [info] > git reflog master --grep-reflog=branch: Created from *. [14ms]
+2024-10-01 09:55:34.433 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-10-01 09:55:34.437 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-10-01 09:55:34.443 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-lspconfig/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.443 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [11ms]
+2024-10-01 09:55:34.448 [info] > git status -z -uall [10ms]
+2024-10-01 09:55:34.448 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-10-01 09:55:34.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-10-01 09:55:34.464 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/mason.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:55:34.465 [info] > git status -z -uall [14ms]
+2024-10-01 09:55:34.465 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-10-01 09:55:34.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [28ms]
+2024-10-01 09:55:34.482 [info] > git config --local branch.master.vscode-merge-base origin/master [3ms]
+2024-10-01 09:55:34.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-10-01 09:55:34.486 [info] > git config --local branch.master.vscode-merge-base [17ms]
+2024-10-01 09:55:34.490 [info] > git rev-parse refs/remotes/origin/main [26ms]
+2024-10-01 09:55:34.493 [info] > git merge-base refs/heads/master refs/remotes/origin/master [33ms]
+2024-10-01 09:55:34.502 [info] > git status -z -uall [9ms]
+2024-10-01 09:55:34.502 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [5ms]
+2024-10-01 09:55:34.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [16ms]
+2024-10-01 09:55:34.506 [info] > git config --local branch.master.vscode-merge-base [20ms]
+2024-10-01 09:55:34.512 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:55:34.515 [info] > git diff --name-status -z --diff-filter=ADMR eae0d8fbde590b0eaa2f9481948cd6fd7dd21656...refs/remotes/origin/master [9ms]
+2024-10-01 09:55:34.516 [info] > git config --get commit.template [14ms]
+2024-10-01 09:55:34.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-01 09:55:34.531 [info] > git merge-base refs/heads/master refs/remotes/origin/master [15ms]
+2024-10-01 09:55:34.541 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [6ms]
+2024-10-01 09:55:34.546 [info] > git config --local branch.main.vscode-merge-base [16ms]
+2024-10-01 09:55:34.551 [info] > git merge-base refs/heads/main refs/remotes/origin/main [26ms]
+2024-10-01 09:55:34.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [5ms]
+2024-10-01 09:55:34.557 [info] > git diff --name-status -z --diff-filter=ADMR 0678aa439b82965daf03679cd146e84f10e299c3...refs/remotes/origin/master [11ms]
+2024-10-01 09:55:34.557 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-10-01 09:55:34.562 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-lspconfig/.git/refs/remotes/origin/master'
+2024-10-01 09:55:34.562 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-10-01 09:55:34.567 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-10-01 09:55:34.571 [info] > git diff --name-status -z --diff-filter=ADMR e2f7f9044ec30067bc11800a9e266664b88cda22...refs/remotes/origin/main [5ms]
+2024-10-01 09:55:34.580 [info] > git status -z -uall [10ms]
+2024-10-01 09:55:34.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:34.594 [info] > git config --local branch.master.vscode-merge-base [2ms]
+2024-10-01 09:55:34.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:55:35.393 [info] > git symbolic-ref --short HEAD [5ms]
+2024-10-01 09:55:35.398 [info] > git config --get commit.template [6ms]
+2024-10-01 09:55:35.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:35.404 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/LuaSnip/.git/refs/remotes/origin/master'
+2024-10-01 09:55:35.405 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:55:35.430 [info] > git status -z -uall [20ms]
+2024-10-01 09:55:35.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-01 09:55:35.447 [info] > git config --local branch.master.vscode-merge-base [2ms]
+2024-10-01 09:55:35.454 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2024-10-01 09:55:37.670 [info] > git symbolic-ref --short HEAD [7ms]
+2024-10-01 09:55:37.676 [info] > git config --get commit.template [7ms]
+2024-10-01 09:55:37.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:37.684 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-treesitter/.git/refs/remotes/origin/master'
+2024-10-01 09:55:37.686 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-01 09:55:37.719 [info] > git status -z -uall [29ms]
+2024-10-01 09:55:37.728 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:37.735 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:55:37.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:55:50.559 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/3nigma/.local/share/nvim/tree-sitter-lua-tmp/tree-sitter-lua-99fc677e6971c425e8d407f59c77ab897e585c92/". Error:Error: ENOENT: no such file or directory, realpath '/home/3nigma/.local/share/nvim/tree-sitter-lua-tmp/tree-sitter-lua-99fc677e6971c425e8d407f59c77ab897e585c92/'
+2024-10-01 09:55:50.566 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/3nigma/.local/share/nvim/tree-sitter-luadoc-tmp/tree-sitter-luadoc-873612aadd3f684dd4e631bdf42ea8990c57634e/". Error:Error: ENOENT: no such file or directory, realpath '/home/3nigma/.local/share/nvim/tree-sitter-luadoc-tmp/tree-sitter-luadoc-873612aadd3f684dd4e631bdf42ea8990c57634e/'
+2024-10-01 09:55:50.570 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/3nigma/.local/share/nvim/tree-sitter-printf-tmp/tree-sitter-printf-0e0aceabbf607ea09e03562f5d8a56f048ddea3d/". Error:Error: ENOENT: no such file or directory, realpath '/home/3nigma/.local/share/nvim/tree-sitter-printf-tmp/tree-sitter-printf-0e0aceabbf607ea09e03562f5d8a56f048ddea3d/'
+2024-10-01 09:55:50.575 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/3nigma/.local/share/nvim/tree-sitter-vimdoc-tmp/tree-sitter-vimdoc-2249c44ecd3f5cf22da3dcccfb74f816ddb29245/". Error:Error: ENOENT: no such file or directory, realpath '/home/3nigma/.local/share/nvim/tree-sitter-vimdoc-tmp/tree-sitter-vimdoc-2249c44ecd3f5cf22da3dcccfb74f816ddb29245/'
+2024-10-01 09:55:50.578 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/3nigma/.local/share/nvim/tree-sitter-vim-tmp/tree-sitter-vim-f3cd62d8bd043ef20507e84bb6b4b53731ccf3a7/". Error:Error: ENOENT: no such file or directory, realpath '/home/3nigma/.local/share/nvim/tree-sitter-vim-tmp/tree-sitter-vim-f3cd62d8bd043ef20507e84bb6b4b53731ccf3a7/'
+2024-10-01 09:55:51.630 [info] > git symbolic-ref --short HEAD [6ms]
+2024-10-01 09:55:51.635 [info] > git config --get commit.template [6ms]
+2024-10-01 09:55:51.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:51.641 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-treesitter/.git/refs/remotes/origin/master'
+2024-10-01 09:55:51.642 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:55:51.670 [info] > git status -z -uall [24ms]
+2024-10-01 09:55:51.677 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:51.683 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:55:51.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]
+2024-10-01 09:55:56.693 [info] > git config --get commit.template [3ms]
+2024-10-01 09:55:56.694 [info] > git symbolic-ref --short HEAD [8ms]
+2024-10-01 09:55:56.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:56.705 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-treesitter/.git/refs/remotes/origin/master'
+2024-10-01 09:55:56.706 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:55:56.742 [info] > git status -z -uall [30ms]
+2024-10-01 09:55:56.748 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:55:56.755 [info] > git config --local branch.master.vscode-merge-base [2ms]
+2024-10-01 09:55:56.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:56:05.304 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:56:05.311 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-01 09:56:05.320 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/dressing.nvim
+2024-10-01 09:56:05.330 [warning] [Git][getHEAD] Failed to parse HEAD file: Repository is using reftable format.
+2024-10-01 09:56:05.331 [info] > git config --get commit.template [4ms]
+2024-10-01 09:56:05.331 [info] > git symbolic-ref --short HEAD [1ms]
+2024-10-01 09:56:05.331 [info] fatal: No such ref: HEAD
+2024-10-01 09:56:05.336 [info] > git rev-parse HEAD [1ms]
+2024-10-01 09:56:05.336 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:56:05.340 [info] > git status -z -uall [1ms]
+2024-10-01 09:56:05.350 [info] > git symbolic-ref --short HEAD [5ms]
+2024-10-01 09:56:05.350 [info] fatal: No such ref: HEAD
+2024-10-01 09:56:05.355 [info] > git config --get commit.template [5ms]
+2024-10-01 09:56:05.356 [info] > git rev-parse HEAD [1ms]
+2024-10-01 09:56:05.356 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-10-01 09:56:05.361 [info] > git status -z -uall [2ms]
+2024-10-01 09:56:07.296 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:56:07.303 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-01 09:56:07.309 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/nvim-ts-autotag
+2024-10-01 09:56:07.324 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:56:07.324 [info] > git config --get commit.template [8ms]
+2024-10-01 09:56:07.338 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-10-01 09:56:07.343 [info] [Model][openRepository] Opened repository: /home/3nigma/.local/share/nvim/lazy/leap.nvim
+2024-10-01 09:56:07.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-10-01 09:56:07.357 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-ts-autotag/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.358 [info] > git config --get commit.template [8ms]
+2024-10-01 09:56:07.361 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-10-01 09:56:07.372 [info] > git status -z -uall [6ms]
+2024-10-01 09:56:07.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-10-01 09:56:07.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-10-01 09:56:07.398 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/leap.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.398 [info] > git config --local branch.main.vscode-merge-base [6ms]
+2024-10-01 09:56:07.398 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:56:07.404 [info] > git config --get commit.template [17ms]
+2024-10-01 09:56:07.406 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2024-10-01 09:56:07.417 [info] > git status -z -uall [7ms]
+2024-10-01 09:56:07.417 [info] > git reflog main --grep-reflog=branch: Created from *. [14ms]
+2024-10-01 09:56:07.422 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-01 09:56:07.434 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-ts-autotag/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-10-01 09:56:07.444 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [24ms]
+2024-10-01 09:56:07.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-10-01 09:56:07.455 [info] > git config --local branch.main.vscode-merge-base [11ms]
+2024-10-01 09:56:07.455 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:56:07.459 [info] > git config --get commit.template [21ms]
+2024-10-01 09:56:07.459 [info] > git rev-parse refs/remotes/origin/main [25ms]
+2024-10-01 09:56:07.464 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-10-01 09:56:07.468 [info] > git config --local branch.main.vscode-merge-base origin/main [14ms]
+2024-10-01 09:56:07.477 [info] > git status -z -uall [14ms] (cancelled)
+2024-10-01 09:56:07.478 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [10ms]
+2024-10-01 09:56:07.482 [info] > git config --get commit.template [5ms]
+2024-10-01 09:56:07.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-10-01 09:56:07.487 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/leap.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2024-10-01 09:56:07.496 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2024-10-01 09:56:07.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-10-01 09:56:07.501 [info] > git config --local branch.main.vscode-merge-base origin/main [9ms]
+2024-10-01 09:56:07.506 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/nvim-ts-autotag/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.510 [info] > git status -z -uall [10ms] (cancelled)
+2024-10-01 09:56:07.510 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-10-01 09:56:07.515 [info] > git config --get commit.template [6ms]
+2024-10-01 09:56:07.518 [info] > git status -z -uall [4ms]
+2024-10-01 09:56:07.534 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-10-01 09:56:07.541 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-10-01 09:56:07.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2024-10-01 09:56:07.556 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/leap.nvim/.git/refs/remotes/origin/main'
+2024-10-01 09:56:07.556 [info] > git config --local branch.main.vscode-merge-base [7ms]
+2024-10-01 09:56:07.561 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [20ms]
+2024-10-01 09:56:07.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [9ms]
+2024-10-01 09:56:07.570 [info] > git rev-parse refs/remotes/origin/main [15ms]
+2024-10-01 09:56:07.574 [info] > git diff --name-status -z --diff-filter=ADMR e239a560f338be31337e7abc3ee42515daf23f5e...refs/remotes/origin/main [6ms]
+2024-10-01 09:56:07.576 [info] > git status -z -uall [2ms]
+2024-10-01 09:56:07.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-01 09:56:07.591 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-01 09:56:07.594 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2024-10-01 09:56:07.605 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-10-01 09:56:07.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [14ms]
+2024-10-01 09:56:07.610 [info] > git diff --name-status -z --diff-filter=ADMR c6bfb191f1161fbabace1f36f578a20ac6c7642c...refs/remotes/origin/main [2ms]
+2024-10-01 09:56:07.610 [info] > git config --get commit.template [6ms]
+2024-10-01 09:56:07.610 [info] > git symbolic-ref --short HEAD [9ms]
+2024-10-01 09:56:07.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:56:07.617 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/dressing.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:56:07.618 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:56:07.623 [info] > git status -z -uall [2ms]
+2024-10-01 09:56:07.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:56:07.637 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:56:07.637 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-01 09:56:07.643 [info] > git reflog master --grep-reflog=branch: Created from *. [3ms]
+2024-10-01 09:56:07.647 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-01 09:56:07.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:56:07.659 [info] > git config --local branch.master.vscode-merge-base origin/master [2ms]
+2024-10-01 09:56:07.667 [info] > git symbolic-ref --short HEAD [5ms]
+2024-10-01 09:56:07.670 [info] > git config --get commit.template [4ms]
+2024-10-01 09:56:07.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-01 09:56:07.674 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/dressing.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:56:07.675 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:56:07.681 [info] > git status -z -uall [3ms]
+2024-10-01 09:56:07.692 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-10-01 09:56:07.697 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:56:07.703 [info] > git merge-base refs/heads/master refs/remotes/origin/master [12ms]
+2024-10-01 09:56:07.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [5ms]
+2024-10-01 09:56:07.708 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [1ms]
+2024-10-01 09:56:07.714 [info] > git diff --name-status -z --diff-filter=ADMR 1b7921eecc65af1baf8ac1dc06f0794934cbcfb2...refs/remotes/origin/master [2ms]
+2024-10-01 09:56:12.648 [info] > git symbolic-ref --short HEAD [6ms]
+2024-10-01 09:56:12.652 [info] > git config --get commit.template [4ms]
+2024-10-01 09:56:12.653 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-01 09:56:12.657 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/3nigma/.local/share/nvim/lazy/dressing.nvim/.git/refs/remotes/origin/master'
+2024-10-01 09:56:12.658 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-01 09:56:12.664 [info] > git status -z -uall [3ms]
+2024-10-01 09:56:12.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-01 09:56:12.676 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-10-01 09:56:12.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2024-10-01 09:59:11.991 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 09:59:11.991 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 10:01:39.271 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 10:01:39.271 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 10:01:41.799 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 10:01:41.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 10:04:03.865 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 10:04:03.865 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 10:08:16.302 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-01 10:08:34.218 [info] > git check-ignore -v -z --stdin [55ms]
+2024-10-01 10:08:34.218 [info] > git check-ignore -v -z --stdin [49ms]
+2024-10-01 10:08:34.219 [info] > git check-ignore -v -z --stdin [46ms]
+2024-10-01 10:08:34.219 [info] > git check-ignore -v -z --stdin [40ms]
+2024-10-01 10:08:34.219 [info] > git check-ignore -v -z --stdin [35ms]
+2024-10-01 10:08:34.220 [info] > git check-ignore -v -z --stdin [31ms]
+2024-10-01 10:08:34.220 [info] > git check-ignore -v -z --stdin [27ms]
+2024-10-01 10:08:34.220 [info] > git check-ignore -v -z --stdin [22ms]
+2024-10-01 10:08:34.220 [info] > git check-ignore -v -z --stdin [17ms]
+2024-10-01 10:08:34.221 [info] > git check-ignore -v -z --stdin [13ms]
+2024-10-01 10:08:34.221 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-01 10:08:34.221 [info] > git check-ignore -v -z --stdin [6ms]
+2024-10-01 10:08:51.259 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 10:08:51.259 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:02:41.292 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:02:41.292 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:03:09.490 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:03:09.490 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:03:14.667 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:03:14.667 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:03:17.168 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:03:17.168 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:03:18.073 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:03:18.073 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:04:14.251 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:04:14.251 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:04:49.338 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:04:49.338 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:05:26.921 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:05:26.922 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:06:26.567 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:06:26.567 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:08:33.446 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:08:33.446 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:08:34.509 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:08:34.509 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:08:35.634 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:08:35.634 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:08:40.911 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:08:40.911 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:09:14.745 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:09:14.745 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:09:15.667 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:09:15.667 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:09:16.804 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:09:16.804 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:11:58.564 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:11:58.564 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:00.486 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:13:00.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:02.804 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:13:02.805 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:04.183 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:13:04.183 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:25.980 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:13:25.980 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:26.923 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:13:26.923 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:28.332 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:13:28.332 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:13:43.473 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:13:43.473 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:14:47.707 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:14:47.707 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:15:32.735 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:15:32.735 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:21:01.487 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:21:01.487 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:32:27.242 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:32:27.242 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:32:28.087 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:32:28.087 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:36:58.892 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:36:58.892 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:38:40.967 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:38:40.967 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:38:41.692 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:38:41.692 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:38:44.141 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:38:44.141 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:38:44.678 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:38:44.678 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:39:09.176 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:39:09.176 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:39:30.434 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 11:39:30.434 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:39:30.968 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:39:30.968 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:39:31.706 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:39:31.706 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:39:37.078 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:39:37.078 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:42:22.792 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:42:22.792 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:42:23.496 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 11:42:23.496 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 11:56:36.207 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 11:56:36.207 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 12:00:34.340 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-01 12:00:34.340 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 12:00:42.104 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-01 12:00:42.104 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 12:01:40.925 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 12:01:40.925 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-01 12:01:59.685 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-01 12:01:59.685 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
